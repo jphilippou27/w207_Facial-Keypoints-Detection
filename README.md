@@ -1,5 +1,7 @@
 # FACIAL KEYPOINTS DETECTION
 
+Project overview: https://www.philippou.us/jensweb/FacialRecognition.html
+
 https://www.kaggle.com/c/facial-keypoints-detection
 
 * Determine x,y of keypoints in image (e.g. left eye cornewer)
